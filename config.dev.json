@@ -52,7 +52,7 @@
       "siteKey": "6Lc5EdgoAAAAAEv68jPEPY-5E0On3OcGiS7eFJIJ",
       "secretKey": "6Lc5EdgoAAAAAGDtxbP7mdmK-0VuIBZSlSYOGZoN"
     }
-  }, },
+  }, 
 	"dashBoard": {
 		"enable": true,
 		"expireVerifyCode": 300000,
